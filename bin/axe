@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'axe'
+Axe::Swing.execute(*ARGV)
