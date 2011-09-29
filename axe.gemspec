@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['John Thomas Marino']
   s.email       = 'writejm@gmail.com'
-  s.homepage    = 'http://github.com/johmas/axe'
+  s.homepage    = 'http://github.com/johnnytommy/axe'
   s.summary     = 'axe makes parsing logs easy as you develop'
   s.description = %q{
     axe is a command line utility that makes parsing logs easy as you develop.
